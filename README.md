@@ -36,7 +36,4 @@ Tôi là Unity Developer với kinh nghiệm trong nhiều dự án VR/AR, game 
 - 🌐 Hà Nội, Việt Nam  
 
 ---
-
-## 📊 Thống kê GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📹 Demo Video <iframe width="560" height="315" src="https://www.youtube.com/embed/WsCT9j50teM" frameborder="0" allowfullscreen> </iframe>
