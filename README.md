@@ -36,7 +36,9 @@ Tôi là Unity Developer với kinh nghiệm trong nhiều dự án VR/AR, game 
 - 🌐 Hà Nội, Việt Nam  
 
 ---
-<div align="center"> ## 📹 Demo Motion Game 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsCT9j50teM" frameborder="0" allowfullscreen></iframe>
-  ## 📹 Demo Sắp xếp nội thất VR <iframe width="560" height="315" src="https://www.youtube.com/embed/7G6u8pRWJKE" frameborder="0" allowfullscreen></iframe>
+## 📹 Demo Video
+[![Demo Video](https://img.youtube.com/vi/WsCT9j50teM/0.jpg)](https://www.youtube.com/watch?v=WsCT9j50teM)
+## 📹 Demo Video
+[![Demo Video](https://img.youtube.com/vi/WsCT9j50teM/0.jpg)](https://www.youtube.com/watchWsG6u8p
+  ## 📹 Demo Sắp xếp nội thất VR <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
 
