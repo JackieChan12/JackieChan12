@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là Vũ Thành Long
 
-🎮 Unity Developer | 🕹 Game Designer | 💻 Freelancer  
+🎮 Unity Developer  
 
 Tôi là Unity Developer với kinh nghiệm trong nhiều dự án VR/AR, game đa nền tảng và ứng dụng tương tác. Mục tiêu của tôi là tạo ra sản phẩm chất lượng cao, đồng thời không ngừng học hỏi và phát triển kỹ năng.
 
